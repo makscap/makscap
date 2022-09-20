@@ -1,4 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Maksym 👋</h1>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <h2>  🌱 I’m currently learning:</h2>
